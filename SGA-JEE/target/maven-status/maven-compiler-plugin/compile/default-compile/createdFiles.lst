@@ -1,0 +1,5 @@
+ar/com/benjamd/cliente/ClientePersonaService.class
+ar/com/benjamd/domain/Persona.class
+ar/com/benjamd/domain/Usuario.class
+ar/com/benjamd/servicio/IPersonaServiceRemote.class
+ar/com/benjamd/cliente/PruebaManejoTransacciones.class

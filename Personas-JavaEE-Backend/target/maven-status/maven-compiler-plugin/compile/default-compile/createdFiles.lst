@@ -1,0 +1,6 @@
+ar/com/benjamd/web/CorsFilter.class
+ar/com/benjamd/data/PersonaDAOImpl.class
+ar/com/benjamd/web/JAXRSActivator.class
+ar/com/benjamd/domain/Persona.class
+ar/com/benjamd/data/PersonaDAO.class
+ar/com/benjamd/servicio/PersonaServiceRS.class

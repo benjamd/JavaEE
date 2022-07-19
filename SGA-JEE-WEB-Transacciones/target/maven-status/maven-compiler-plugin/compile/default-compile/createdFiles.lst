@@ -1,0 +1,17 @@
+ar/com/benjamd/cliente/ciclovida/EncontrarObjetoJPA.class
+ar/com/benjamd/cliente/ciclovida/PersistirObjetoJPA.class
+ar/com/benjamd/domain/Usuario.class
+ar/com/benjamd/cliente/ciclovida/ActualizarObjetoJPA.class
+ar/com/benjamd/cliente/asociaciones/ClienteAsociacionesJPA.class
+ar/com/benjamd/servicio/IPersonaServiceRemote.class
+ar/com/benjamd/cliente/ciclovida/ActualizarObjetoSesionLargaJPA.class
+ar/com/benjamd/domain/Persona.class
+ar/com/benjamd/cliente/cascade/PersistenciaCascadaJPA.class
+ar/com/benjamd/cliente/ciclovida/EliminarObjetoJPA.class
+ar/com/benjamd/servicio/PersonaServiceImpl.class
+ar/com/benjamd/datos/PersonaDaoImpl.class
+ar/com/benjamd/cliente/criteria/PruebaCriteriaAPI.class
+ar/com/benjamd/web/PersonaServlet.class
+ar/com/benjamd/servicio/IPersonaService.class
+ar/com/benjamd/cliente/jpql/PruebaJPQL.class
+ar/com/benjamd/datos/IPersonaDao.class

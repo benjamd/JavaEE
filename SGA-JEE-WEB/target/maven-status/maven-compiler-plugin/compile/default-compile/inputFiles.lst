@@ -1,0 +1,7 @@
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/servicio/IPersonaService.java
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/datos/IPersonaDao.java
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/servicio/PersonaServiceImpl.java
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/servicio/IPersonaServiceRemote.java
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/web/PersonaServlet.java
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/datos/PersonaDaoImpl.java
+/home/benja/NetBeansProjects/JavaEE/SGA-JEE-WEB/src/main/java/ar/com/benjamd/domain/Persona.java

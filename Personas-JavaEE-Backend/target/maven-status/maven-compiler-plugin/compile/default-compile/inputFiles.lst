@@ -1,0 +1,6 @@
+/home/benja/NetBeansProjects/JavaEE/Personas-JavaEE-Backend/src/main/java/ar/com/benjamd/web/CorsFilter.java
+/home/benja/NetBeansProjects/JavaEE/Personas-JavaEE-Backend/src/main/java/ar/com/benjamd/domain/Persona.java
+/home/benja/NetBeansProjects/JavaEE/Personas-JavaEE-Backend/src/main/java/ar/com/benjamd/data/PersonaDAOImpl.java
+/home/benja/NetBeansProjects/JavaEE/Personas-JavaEE-Backend/src/main/java/ar/com/benjamd/servicio/PersonaServiceRS.java
+/home/benja/NetBeansProjects/JavaEE/Personas-JavaEE-Backend/src/main/java/ar/com/benjamd/data/PersonaDAO.java
+/home/benja/NetBeansProjects/JavaEE/Personas-JavaEE-Backend/src/main/java/ar/com/benjamd/web/JAXRSActivator.java
